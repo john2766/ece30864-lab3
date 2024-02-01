@@ -26,3 +26,13 @@ The final type of meeting is a scrum meeting, which happens daily, to
 1) discuss what was completed during the previous day, and 2) discuss what
 will be completed on the current day, as well as any roadblocks to completing
 those tasks.
+
+d)
+Epic: An Epic is a very large subsection of the overall project, representing
+entire segments of the project.
+Story: An Epic is then split into many subsections, called stories, which are
+singular functions to be completed in order for the Epic to be considered completed.
+Bug: A bug is a small issue in the code that may have been unanticipated and often
+blocks other planned stories from being completed.
+Task: A task is the smallest type of component. Each task describes one aspect of
+how exactly a story will be completed. 
