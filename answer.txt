@@ -8,3 +8,8 @@ The Product Owner is responsible for budgeting, timeline, maintenance,
 testing, and planning of the project, which is crucial for a long-term
 project, especially one that operates in many short-term sprints.
 
+b) The Scrum Master is responsible for leading the development team, which
+involves delegating tasks and tracking project progress. The Product Owner,
+on the other hand, is responsible for making sure that the direction the
+project is headed is benefitting the company and client, and that major
+milestones and customer expectations are being fulfilled.
