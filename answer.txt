@@ -1,0 +1,10 @@
+
+a) In a non-Agile project, there is not guanenteed to be an equivalent
+to the Product Owner because many non-Agile methods are not iterative.
+Many of the roles of the Product Owner rely on consistent testing and
+customer feedback, something that is much more diffcult to achieve in a
+non-Agile setting. However, a Product Owner is crucial for Agile projects.
+The Product Owner is responsible for budgeting, timeline, maintenance,
+testing, and planning of the project, which is crucial for a long-term
+project, especially one that operates in many short-term sprints.
+
